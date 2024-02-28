@@ -1,0 +1,76 @@
+{
+    "persons": [
+        {
+            "lastName": "Munoz Aldana",
+            "cityOfBirth": {
+                "daneCode": 91203123,
+                "name": "Tunja"
+            },
+            "birthdate": "20-04-2004",
+            "gender": "Male",
+            "name": "Nicolas Danilo",
+            "typeID": "CC",
+            "ID": 1050602108
+        },
+        {
+            "lastName": "Gomez",
+            "cityOfBirth": {
+                "daneCode": 12368921,
+                "name": "Bogota"
+            },
+            "birthdate": "15-09-1990",
+            "gender": "Female",
+            "name": "Maria",
+            "typeID": "CC",
+            "ID": 123456789
+        },
+        {
+            "lastName": "Perez",
+            "cityOfBirth": {
+                "daneCode": 412365,
+                "name": "Medellin"
+            },
+            "birthdate": "03-07-1985",
+            "gender": "Male",
+            "name": "Pedro",
+            "typeID": "TI",
+            "ID": 987654321
+        },
+        {
+            "lastName": "Fernandez",
+            "cityOfBirth": {
+                "daneCode": 4874321,
+                "name": "Cali"
+            },
+            "birthdate": "25-12-1982",
+            "gender": "Female",
+            "name": "Luisa",
+            "typeID": "CC",
+            "ID": 456789123
+        },
+        {
+            "lastName": "López",
+            "cityOfBirth": {
+                "daneCode": 987821,
+                "name": "Cartagena"
+            },
+            "birthdate": "10-03-1975",
+            "gender": "Male",
+            "name": "Andres",
+            "typeID": "CC",
+            "ID": 789123456
+        },
+        {
+            "lastName": "Rodriguez Lopez",
+            "cityOfBirth": {
+                "daneCode": 91203123,
+                "name": "Tunja"
+            },
+            "birthdate": "15-07-2004",
+            "gender": "Male",
+            "name": "Diego Alejandro",
+            "typeID": "CC",
+            "ID": 1050602236
+        }
+    ]
+}
